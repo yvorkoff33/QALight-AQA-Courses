@@ -24,13 +24,4 @@ public class CharShot {
             shotChar.add(ran);
         }
     }
-
-    public void setChar() {
-        int i = 0;
-        for (int j = 0; j < 10; j++) {
-            i++;
-
-        }
-        System.out.println(i);
-    }
 }
