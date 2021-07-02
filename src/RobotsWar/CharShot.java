@@ -25,4 +25,7 @@ public class CharShot {
         }
     }
 
+    public void setChar() {
+        int i = 0;
+    }
 }
