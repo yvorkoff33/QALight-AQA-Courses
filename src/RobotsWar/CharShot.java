@@ -1,7 +1,10 @@
 package RobotsWar;
 
 import java.util.ArrayList;
+
 import java.util.Random;
+
+
 
 public class CharShot {
     String alphabet = "QWEASDZXC";
@@ -33,4 +36,6 @@ public class CharShot {
         }
         System.out.println(i);
     }
+
+
 }
